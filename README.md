@@ -1,4 +1,6 @@
+```bash
 $ create-react-app chura-lovers -->> creamos
+```
 React es declarativo - 
 $ npm install -g create-react-app  (ya no es necesario?)
 $ create-react-app -nombre del proyecto-  // En este punto se estará instalando React y otras herramientas, también se configurará el entorno usando Webpack.
